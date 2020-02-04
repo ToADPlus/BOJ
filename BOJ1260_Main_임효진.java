@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class BOJ_1260_DFS와BFS_임효진 {
+public class BOJ1260_Main_임효진 {
 	static int N, M, V;
 	static int[][] map;
 	static boolean[] visited;
