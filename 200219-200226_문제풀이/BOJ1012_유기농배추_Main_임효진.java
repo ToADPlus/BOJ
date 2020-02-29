@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ1012_유기농배추 {
+public class BOJ1012_유기농배추_Main_임효진 {
 	public static int M;
 	public static int N;
 	public static int K;
