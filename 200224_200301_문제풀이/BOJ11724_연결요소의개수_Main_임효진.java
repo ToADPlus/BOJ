@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ11724_연결요소의개수 {
+public class BOJ11724_연결요소의개수_Main_임효진 {
 
 	public static int[] p;
 	public static ArrayList<ArrayList<Integer>> edge;
