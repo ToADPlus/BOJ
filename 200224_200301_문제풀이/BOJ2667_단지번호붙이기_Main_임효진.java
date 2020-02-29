@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class BOJ2667_단지번호붙이기 {
+public class BOJ2667_단지번호붙이기_Main_임효진 {
 	public static int N;
 	public static int[][] map;
 	public static ArrayList<Integer> ans;
