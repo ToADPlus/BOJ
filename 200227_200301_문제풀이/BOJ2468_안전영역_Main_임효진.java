@@ -1,14 +1,9 @@
-/**
-구현시 주의사항
-- 물에 아예 잠기지 않은 상황도 포함해야 한다 (따라서 안전 영역의 초기 시작 값은 1)
-- 물의 높이는 1이상 100이하
-*/
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ2468_안전영역 {
+public class BOJ2468_안전영역_Main_임효진 {
 	public static int[][] map;
 	public static int[][] copyMap;
 	public static int N;
