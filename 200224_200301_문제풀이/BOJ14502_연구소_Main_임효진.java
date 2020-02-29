@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ14502_연구소 {
+public class BOJ14502_연구소_Main_임효진 {
 	public static int N;
 	public static int M;
 	public static int[][] map;
