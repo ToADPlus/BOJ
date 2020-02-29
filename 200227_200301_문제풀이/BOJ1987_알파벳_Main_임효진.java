@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ1987_알파벳 {
+public class BOJ1987_알파벳_Main_임효진 {
 
 	public static char[][] map;
 	public static boolean[] alpha;
