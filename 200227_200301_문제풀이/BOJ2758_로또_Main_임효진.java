@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ2758_로또 {
+public class BOJ2758_로또_Main_임효진 {
 
 	public static long[][] dp;
 	public static int N;
