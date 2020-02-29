@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ2178_미로탐색 {
+public class BOJ2178_미로탐색_Main_임효진 {
 	public static int[][] map;
 	public static int N;
 	public static int M;

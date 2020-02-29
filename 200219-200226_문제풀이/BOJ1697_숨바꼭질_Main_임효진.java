@@ -5,8 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-/*visit 체크 없으면 메모리 초과가 발생 (조심할 것!)*/
-public class BOJ1697_숨바꼭질 {
+public class BOJ1697_숨바꼭질_Main_임효진 {
 	public static int N;
 	public static int K;
 	public static int[] d = { -1, 1, 2 };
