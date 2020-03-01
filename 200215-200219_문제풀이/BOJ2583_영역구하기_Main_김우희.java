@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.Queue;
 
-public class Main_Baekjoon_2583_영역구하기 {
+public class BOJ2583_영역구하기_Main_김우희 {
 	public static boolean[][] visited;
 	public static Queue<Integer> q = new LinkedList<Integer>();
 	public static int n;

@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Queue;
 
-public class Main_Baekjoon_2644_촌수계산 {
+public class BOJ2644_촌수계산_Main_김우희 {
 	public static int[][] arr;
 	public static boolean[] visited;
 	
