@@ -59,7 +59,7 @@ public class BOJ14442_벽부수고이동하기2_Main_임효진 {
 						visit[nx][ny][b + 1] = 1;
 						q.add(new int[] { nx, ny, b + 1, m + 1 });
 					}
-				}else {
+				} else {
 					visit[nx][ny][b] = 1;
 					q.add(new int[] { nx, ny, b, m + 1 });
 				}
