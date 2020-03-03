@@ -9,12 +9,12 @@
 
 **문제 리스트**
 
-| 문제풀이 일정       | 문제                                                         |
-| ------------------- | ------------------------------------------------------------ |
-| 20.01.29 ~ 20.02.05 | [BOJ1260](<https://www.acmicpc.net/problem/1260>)            |
-| 20.02.15 ~ 20.02.19 | [BOJ2583](https://www.acmicpc.net/problem/2583) [BOJ2644](https://www.acmicpc.net/problem/2644) |
-| 20.02.19 ~ 20.02.26 | [BOJ1012](https://www.acmicpc.net/problem/1012) [BOJ1697](https://www.acmicpc.net/problem/1697) [BOJ2178](https://www.acmicpc.net/problem/2178) |
-| 20.02.24 ~ 20.03.01 | [BOJ11724](https://www.acmicpc.net/problem/11724) [BOJ14502](https://www.acmicpc.net/problem/14502) [BOJ2667](https://www.acmicpc.net/problem/2667) |
-| 20.02.27 ~ 20.03.01 | [BOJ11052](https://www.acmicpc.net/problem/11052) [BOJ1987](https://www.acmicpc.net/problem/1987) [BOJ2468](https://www.acmicpc.net/problem/2468) [BOJ2758](https://www.acmicpc.net/problem/2758) |
-| 20.03.02 ~ 20.03.06 | [BOJ6603](https://www.acmicpc.net/problem/6603) [BOJ1325](https://www.acmicpc.net/problem/1325) [BOJ1389](https://www.acmicpc.net/problem/1389) [BOJ14442](https://www.acmicpc.net/problem/14442) [BOJ1938](https://www.acmicpc.net/problem/1938) |
+| 회차       | 문제풀이 일정       | 문제                                                         |
+| ------------------- | ------------------- | ------------------------------------------------------------ |
+| 1회차       | 20.01.29 ~ 20.02.05 | [BOJ1260](<https://www.acmicpc.net/problem/1260>)            |
+| 2회차       | 20.02.15 ~ 20.02.19 | [BOJ2583](https://www.acmicpc.net/problem/2583) [BOJ2644](https://www.acmicpc.net/problem/2644) |
+| 3회차       | 20.02.19 ~ 20.02.26 | [BOJ1012](https://www.acmicpc.net/problem/1012) [BOJ1697](https://www.acmicpc.net/problem/1697) [BOJ2178](https://www.acmicpc.net/problem/2178) |
+| 4회차       | 20.02.24 ~ 20.03.01 | [BOJ11724](https://www.acmicpc.net/problem/11724) [BOJ14502](https://www.acmicpc.net/problem/14502) [BOJ2667](https://www.acmicpc.net/problem/2667) |
+| 5회차       | 20.02.27 ~ 20.03.01 | [BOJ11052](https://www.acmicpc.net/problem/11052) [BOJ1987](https://www.acmicpc.net/problem/1987) [BOJ2468](https://www.acmicpc.net/problem/2468) [BOJ2758](https://www.acmicpc.net/problem/2758) |
+| 6회차       | 20.03.02 ~ 20.03.06 | [BOJ6603](https://www.acmicpc.net/problem/6603) [BOJ1325](https://www.acmicpc.net/problem/1325) [BOJ1389](https://www.acmicpc.net/problem/1389) [BOJ14442](https://www.acmicpc.net/problem/14442) [BOJ1938](https://www.acmicpc.net/problem/1938) |
 
