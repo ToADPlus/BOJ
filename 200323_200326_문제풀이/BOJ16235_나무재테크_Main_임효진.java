@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class BOJ16235_나무재테크 {
+public class BOJ16235_나무재테크_Main_임효진 {
 	static class Tree implements Comparable<Tree> {
 		int x, y, age;
 
