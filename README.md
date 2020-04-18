@@ -18,5 +18,5 @@
 | 5회차       | 20.02.27 ~ 20.03.01 | [BOJ11052](https://www.acmicpc.net/problem/11052) [BOJ1987](https://www.acmicpc.net/problem/1987) [BOJ2468](https://www.acmicpc.net/problem/2468) [BOJ2758](https://www.acmicpc.net/problem/2758) |
 | 6회차       | 20.03.02 ~ 20.03.06 | [BOJ6603](https://www.acmicpc.net/problem/6603) [BOJ2206](https://www.acmicpc.net/problem/2206) [BOJ1389](https://www.acmicpc.net/problem/1389) [BOJ14442](https://www.acmicpc.net/problem/14442) [BOJ1938](https://www.acmicpc.net/problem/1938) |
 | 7회차       | 20.04.07 ~ 20.04.11 | [BOJ1328](https://www.acmicpc.net/problem/1328) [BOJ3055](https://www.acmicpc.net/problem/3055) [BOJ9466](https://www.acmicpc.net/problem/9466) [BOJ10844](https://www.acmicpc.net/problem/10844) [BOJ11437](https://www.acmicpc.net/problem/11437) |
-| 8회차       | 20.04.14 ~ 20.04.19 | [BOJ1062](https://www.acmicpc.net/problem/1062) [BOJ1238](https://www.acmicpc.net/problem/1238) [BOJ1922](https://www.acmicpc.net/problem/1922) [BOJ17143](https://www.acmicpc.net/problem/17143) [BOJ17244](https://www.acmicpc.net/problem/17244) |
+| 8회차       | 20.04.13 ~ 20.04.18 | [BOJ1062](https://www.acmicpc.net/problem/1062) [BOJ1238](https://www.acmicpc.net/problem/1238) [BOJ1922](https://www.acmicpc.net/problem/1922) [BOJ17143](https://www.acmicpc.net/problem/17143) [BOJ17244](https://www.acmicpc.net/problem/17244) |
 
