@@ -12,13 +12,11 @@ import java.util.StringTokenizer;
 // 1000개당 100,000이므로 최대 100의 선이 있으므로 크루수칼로 하기 
 public class BOJ1922_네트워크연결_이세련 {
 	static class Edge implements Comparable<Edge>{
-//		int from;
 		int to;
 		int price;
 		
 		public Edge(int to, int price) {
 			super();
-//			this.from = from;
 			this.to = to;
 			this.price = price;
 		}
@@ -47,7 +45,6 @@ public class BOJ1922_네트워크연결_이세련 {
 			int z = Integer.parseInt(st.nextToken());
 			arr[x][y] = z;
 			arr[y][x] = z;
-//			pq.add(new Edge(Integer.parseInt(st.nextToken())-1,Integer.parseInt(st.nextToken())-1,Integer.parseInt(st.nextToken())));
 		}
 		
 		boolean[] visited = new boolean[N];
@@ -66,7 +63,6 @@ public class BOJ1922_네트워크연결_이세련 {
 			answer += edge.price;
 			cnt++;
 			if(cnt == N) break;
-//			visited[edge.from] = true;
 			
 			for (int i = 1; i < N; i++) {
 				if(!visited[i]) {
