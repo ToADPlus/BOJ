@@ -87,7 +87,9 @@ ex:		while(turn <= 1000) {
 
 				// 위치 파악
 				int size = arr[horses[i].x][horses[i].y].size();
+				
 				int index = arr[horses[i].x][horses[i].y].indexOf(i);
+				
 				int hx = horses[i].x;
 				int hy = horses[i].y;
 				
