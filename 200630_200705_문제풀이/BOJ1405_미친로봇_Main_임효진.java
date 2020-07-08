@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ1405_Main_미친로봇_임효진 {
+public class BOJ1405_미친로봇_Main_임효진 {
 	static double[] percentage;// 동 서 남 북
 	static boolean[][] visit;
 	static int[] dx = {0,0,1,-1};
